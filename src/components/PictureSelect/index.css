@@ -1,0 +1,21 @@
+.pictureList {
+    display: flex;
+}
+
+.pictureItem {
+    position: relative;
+}
+
+.pictureItem .itemSelect {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:#fff;
+    position: absolute;
+    top:0;
+    left: 0;
+}
+
+.selectTitle {
+    color:#000;
+}
